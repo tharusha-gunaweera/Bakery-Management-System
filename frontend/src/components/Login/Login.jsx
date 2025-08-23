@@ -24,7 +24,7 @@ const Login = () => {
           <p className="text-xl text-amber-400 mb-8">Where every bite tells a story of tradition and taste</p>
           
           <div className="relative h-64 w-full">
-            {/* Floating Bread */}
+            
             <div className="absolute top-0 left-1/4 animate-float">
               <span className="text-5xl">🍞</span>
             </div>
